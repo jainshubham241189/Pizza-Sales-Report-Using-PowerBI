@@ -99,9 +99,8 @@ Pizza-Sales-Dashboard/
 │
 ├── Pizza_Sales_Dashboard.pbix
 ├── dataset.xlsx
-├── screenshots/
-│   ├── home_dashboard.png
-│   └── best_worst_dashboard.png
+├── home_dashboard.png
+├── best_worst_dashboard.png
 └── README.md
 ```
 
