@@ -84,7 +84,7 @@ The dashboard provides insights into revenue, orders, sales trends, and product 
 
 ### Home Dashboard
 
-![Home Dashboard](Home Dashboard.png)
+![Home Dashboard](https://github.com/jainshubham241189/Pizza-Sales-Report-Using-PowerBI/blob/main/Home%20Dashboard.png)
 
 ### Best & Worst Sellers Dashboard
 
