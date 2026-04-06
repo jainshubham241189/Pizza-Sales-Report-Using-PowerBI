@@ -88,7 +88,7 @@ The dashboard provides insights into revenue, orders, sales trends, and product 
 
 ### Best & Worst Sellers Dashboard
 
-![Best Worst Dashboard](screenshots/best_worst_dashboard.png)
+![Best Worst Dashboard](https://github.com/jainshubham241189/Pizza-Sales-Report-Using-PowerBI/blob/main/Best%20%26%20worst%20seller%20Dashboard.png)
 
 ---
 
